@@ -1,8 +1,6 @@
 # food_draw/services.yaml
 
-"""
-Serviços disponibilizados pelo componente customizado Food Draw.
-"""
+
 
 delete_loja:
   description: Exclui uma loja cadastrada.
