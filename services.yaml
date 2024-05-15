@@ -1,0 +1,19 @@
+# food_draw/services.yaml
+
+"""
+Serviços disponibilizados pelo componente customizado Food Draw.
+"""
+
+delete_loja:
+  description: Exclui uma loja cadastrada.
+  fields:
+    loja_id:
+      description: ID da loja a ser excluída.
+      example: "12345"
+
+delete_produto:
+  description: Exclui um produto cadastrado.
+  fields:
+    produto_id:
+      description: ID do produto a ser excluído.
+      example: "54321"

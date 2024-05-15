@@ -1,0 +1,27 @@
+// food_draw/manifest.json
+
+{
+    "domain": "food_draw",
+    "name": "Food Draw",
+    "documentation": "https://github.com/seu-usuario/food_draw",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "after_dependencies": [],
+    "after": [],
+    "config_flow": true,
+    "i18n": true,
+    "sshs": false,
+    "persistent_folders": [],
+    "pypi_name": "homeassistant",
+    "version": "0.1",
+    "requirements": [],
+    "after_dependencies": [],
+    "after": [],
+    "config_flow": true,
+    "i18n": true,
+    "sshs": false,
+    "persistent_folders": [],
+    "pypi_name": "homeassistant",
+    "version": "0.1"
+}
